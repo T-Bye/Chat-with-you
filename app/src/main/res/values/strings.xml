@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat With You</string>
+    <string-array name="welcome_tips">
+       <item>您好！小灵为你服务！</item>
+       <item>小灵等你好久了!</item>
+       <item>有什么需要问小灵的吗？</item>
+    </string-array>
+</resources>
